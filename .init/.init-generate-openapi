@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python -m src.api.generate_openapi",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tic-tac-toe-arena-e1e9daf6/tic_tac_toe_backend"
+}
